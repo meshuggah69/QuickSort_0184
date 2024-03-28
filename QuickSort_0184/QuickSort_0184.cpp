@@ -7,7 +7,7 @@ int cmp_count = 0; // number of comparisons
 int mov_count = 0; // number of data movements
 int n; 
 
-void input() {
+void input() { 
     while (true)
     {
         cout << "Masukan panjang elemen array: ";
